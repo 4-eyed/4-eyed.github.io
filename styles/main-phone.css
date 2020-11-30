@@ -6,7 +6,7 @@
           box-sizing: border-box;
 }
 
-@media screen and (max-width: 768px) and (min-width: 373px) {
+@media screen and (max-width: 767px) and (min-width: 373px) {
   .header {
     width: 320px;
     height: 540px;
